@@ -1,0 +1,33 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+:root {
+  --bg-color-1: #111827;
+  --text-color: #BBBFC6;
+  --text-color-2: white;
+  --text-color-3: black;
+  --active-color: #EB4343;
+  --bg-color-2: #1F2937;
+  --bg-color-3: #111827;
+  --bg-color-4: #1F2937;
+  /* --badge-bg-color: #1F2937; */
+  --badge-bg-color:#1f4b89;
+}
+
+
+/* @media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+
+  a:hover {
+    color: #747bff;
+  }
+
+  button {
+    background-color: #f9f9f9;
+  }
+} */

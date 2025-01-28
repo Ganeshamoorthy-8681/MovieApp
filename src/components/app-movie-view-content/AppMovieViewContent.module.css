@@ -1,0 +1,87 @@
+.movie-details {
+  display: flex;
+  gap: 2rem;
+  width: 70%;
+  margin: 0 auto;
+}
+
+.movie-details img {
+  min-width: 270px;
+  height: 350px;
+  border-radius: 8px;
+  object-fit: fill;
+}
+
+.movie-details .content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.movie-details .content .title {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.movie-details .content .info {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.movie-details .info .ratings {
+  display: flex;
+  color: var(--text-color-2);
+  align-items: center;
+}
+
+.movie-details .info .ratings .icon {
+  margin-right: 0.5rem;
+}
+
+.movie-details .info .duration {
+  color: var(--text-color);
+}
+
+.badge {
+  padding: 0.2rem 0.6rem;
+  border-radius: 12px;
+  font-size: 1rem;
+  font-weight: 300;
+  color: var(--text-color-2);
+  background-color: var(--badge-bg-color);
+}
+
+.movie-details .credits {
+  display: flex;
+  gap: 2rem;
+}
+
+.movie-details .genres {
+  margin-top: 0.5rem;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.movie-details .description {
+  color: var(--text-color);
+  font-size: 1.3rem;
+}
+
+.movie-details .credits .key-value {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.movie-details .credits .key-value .key {
+  font-weight: bold;
+  font-size: 1.2rem;
+  white-space: nowrap;
+  color: var(--text-color);
+}
+
+.movie-details .credits .key-value .value {
+  color: var(--text-color-2);
+  font-size: 1.2rem;
+}

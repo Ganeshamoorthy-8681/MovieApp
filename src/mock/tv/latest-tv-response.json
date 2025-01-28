@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "",
+  "genres": [],
+  "homepage": "",
+  "id": 282810,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": null,
+  "last_episode_to_air": null,
+  "name": "Judge Lee Han-young",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 97,
+      "logo_path": "/pOSCKaZhndUFYtxHXjQOV6xJi1s.png",
+      "name": "MBC",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 1,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "판사 이한영",
+  "overview": "",
+  "popularity": 0,
+  "poster_path": null,
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 439382,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Planned",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0
+}

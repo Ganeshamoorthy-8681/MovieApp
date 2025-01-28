@@ -1,0 +1,117 @@
+{
+  "adult": false,
+  "backdrop_path": "/hmNgVtGWKYWQg6C6dAdRaASgt1M.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2025-01-02",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "Sci-Fi & Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://v.youku.com/v_show/id_XNjQ0NjE1ODkzNg==.html",
+  "id": 243512,
+  "in_production": true,
+  "languages": [
+    "zh"
+  ],
+  "last_air_date": "2025-01-22",
+  "last_episode_to_air": {
+    "id": 5325836,
+    "name": "Episode 36",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-01-22",
+    "episode_number": 36,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 1,
+    "show_id": 243512,
+    "still_path": "/Avi5GjEcptqMnCNqJkI0ZbMLWX9.jpg"
+  },
+  "name": "The Blossoming Love",
+  "next_episode_to_air": {
+    "id": 5325837,
+    "name": "Episode 37",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2025-01-23",
+    "episode_number": 37,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 243512,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 1419,
+      "logo_path": "/w2TeR3fvPZ9a617tNIF1oOfyPtk.png",
+      "name": "Youku",
+      "origin_country": "CN"
+    }
+  ],
+  "number_of_episodes": 40,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_name": "千朵桃花一世开",
+  "overview": "In ancient times, the Human Emperor, Zhao Ming, petitioned on behalf of the people and sacrificed himself to resist the divine realm. After Zhao Ming's fall, his beloved, Hun Dunzhu, risked her life to save a wisp of his soul, setting up the cycle of reincarnation for eternity. In the distant future, Zhao Ming reincarnated as Xie Xuechen, the leader of the Immortal Alliance, while Hun Dunzhu became the Holy Maiden Mu Xuanling in the Dark Domain. The two finally reunited in the mortal realm but had forgotten their past, becoming adversaries in a \"righteous versus evil\" struggle. Mu Xuanling saved the heavily injured Xie Xuechen in the Dark Domain and coerced him to travel together in gratitude for saving his life.",
+  "popularity": 1993.768,
+  "poster_path": "/lAFxsacfM8r4XMh6ZeP48l1gCRS.jpg",
+  "production_companies": [
+    {
+      "id": 10338,
+      "logo_path": "/a8HjeCqXlm96IKSHvwaBPTMmAIp.png",
+      "name": "Perfect World Pictures",
+      "origin_country": "CN"
+    },
+    {
+      "id": 48460,
+      "logo_path": "/7m3BMwdstKRqw7qg5vSYW2S0HrR.png",
+      "name": "Youku",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2025-01-02",
+      "episode_count": 40,
+      "id": 374029,
+      "name": "Season 1",
+      "overview": "",
+      "poster_path": "/blWjFn7SJWhyg790ugwAjs3qMxu.jpg",
+      "season_number": 1,
+      "vote_average": 6.5
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.5,
+  "vote_count": 6
+}

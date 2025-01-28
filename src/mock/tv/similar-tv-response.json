@@ -1,0 +1,421 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/l7xxn3lR7VhluE7aVZeyWfQoFCs.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1457,
+      "origin_country": [
+        "GB",
+        "CA"
+      ],
+      "original_language": "en",
+      "original_name": "Pride and Prejudice",
+      "overview": "Set in England in the early 19th century, Pride and Prejudice tells the story of Mr and Mrs Bennet's five unmarried daughters after the rich and eligible Mr Bingley and his status-conscious friend, Mr Darcy, have moved into their neighbourhood. While Bingley takes an immediate liking to the eldest Bennet daughter, Jane, Darcy has difficulty adapting to local society and repeatedly clashes with the second-eldest Bennet daughter, Elizabeth.",
+      "popularity": 57.388,
+      "poster_path": "/7od3Mob2qu5lL1l5RsdV6xuEquw.jpg",
+      "first_air_date": "1995-09-24",
+      "name": "Pride and Prejudice",
+      "vote_average": 8.2,
+      "vote_count": 478
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3PGOVtiltZPWqZyOoHJ2kQz0pRy.jpg",
+      "genre_ids": [
+        10765,
+        18,
+        10762
+      ],
+      "id": 1479,
+      "origin_country": [
+        "CA"
+      ],
+      "original_language": "en",
+      "original_name": "Tales from the Neverending Story",
+      "overview": "Twelve-year-old Bastian Balthazar Bux had lost the wonderful imagination he had as a child somewhere between growing older, watching TV, going to school and playing with his Gameboy. But when his mother dies suddenly, Bastian's limitless imagination is reborn. Bastian comes across a magical book, 'The Neverending Story,' in a curious little bookstore. Inspired by the book, Bastian creates an enchanted world called Fantasia, inhabited by dragons, dark knights and assorted heroes and villains.",
+      "popularity": 20.651,
+      "poster_path": "/5WsO2qPQNdr7njiFg6XurxrEXp1.jpg",
+      "first_air_date": "2001-10-14",
+      "name": "Tales from the Neverending Story",
+      "vote_average": 5.5,
+      "vote_count": 12
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2KzRW0vaaO91zTeWuCHPMaJjesu.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        80
+      ],
+      "id": 85853,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Perry Mason",
+      "overview": "Set in 1932 Los Angeles, the series focuses on the origin story of famed defense lawyer Perry Mason. Living check-to-check as a low-rent private investigator, Mason is haunted by his wartime experiences in France and suffering the effects of a broken marriage. L.A. is booming while the rest of the country recovers from the Great Depression — but a kidnapping gone very wrong leads to Mason exposing a fractured city as he uncovers the truth of the crime.",
+      "popularity": 40.108,
+      "poster_path": "/5QcaEyfSbJEmiaxf7ch8nBl0GO4.jpg",
+      "first_air_date": "2020-06-21",
+      "name": "Perry Mason",
+      "vote_average": 7.303,
+      "vote_count": 327
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tXwIyN0m5U05vdrUgqPNefR9n7l.jpg",
+      "genre_ids": [
+        18,
+        10768,
+        80
+      ],
+      "id": 85964,
+      "origin_country": [
+        "ES"
+      ],
+      "original_language": "es",
+      "original_name": "Patria",
+      "overview": "A look at the impact of Spain’s Basque conflict on ordinary people on both sides, such as the widow of a man killed by the ETA who returns to her home village after the 2011 ceasefire between the separatist group and the Spanish government, and her former intimate friend, the mother of a jailed terrorist.",
+      "popularity": 14.599,
+      "poster_path": "/yTvhNt0QxXG7ww5hrUQwFtQoKIw.jpg",
+      "first_air_date": "2020-09-27",
+      "name": "Patria",
+      "vote_average": 7.3,
+      "vote_count": 162
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o2ygDmLGwEcVDnQx31lqOUlDAYz.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 194766,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "The Summer I Turned Pretty",
+      "overview": "Every summer, Belly and her family head to the Fishers’ beach house in Cousins. Every summer is the same ... until Belly turns sixteen. Relationships will be tested, painful truths will be revealed, and Belly will be forever changed. It’s a summer of first love, first heartbreak and growing up — it's the summer she turns pretty.",
+      "popularity": 126.702,
+      "poster_path": "/utNX6hHohGmenZLW5pFMSrdOhL7.jpg",
+      "first_air_date": "2022-06-16",
+      "name": "The Summer I Turned Pretty",
+      "vote_average": 8.164,
+      "vote_count": 741
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tefaxGWBGdJ0hDhM1VcBfTDdurm.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 57551,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "パンとスープとネコ日和",
+      "overview": "Akiko lives with her mother, but suddenly her mother passes away. Since then she quits her editing job and takes over her mother's small restaurant. At the restaurant there's only two items on the menu: sandwich and soup.",
+      "popularity": 32.25,
+      "poster_path": "/sm5E8gDW00xtWKUibzaww4ywlZB.jpg",
+      "first_air_date": "2013-07-21",
+      "name": "Bread and Soup and Cat Weather",
+      "vote_average": 6.4,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zwL0PTy7oxHLp7oDUmk0XRePhmt.jpg",
+      "genre_ids": [
+        18,
+        10759,
+        10765
+      ],
+      "id": 226757,
+      "origin_country": [
+        "TH"
+      ],
+      "original_language": "th",
+      "original_name": "ฤทัยบดี",
+      "overview": "Born with psychic powers, Cho-ueang is vilified as a bad omen against the community. When she is only small, her father performs a spell to keep her hidden and Cho-ueang winds up travelling hundreds of years into the future. There, a family takes her in and renames her Panruethai.\n\nUnexpectedly, Panruethai is returned to her original era, an era she has no memory of. All she knows is her powers have strengthened. Confused, she comes across a young man, Singkham, who mistakes her for a thief and apprehends her. However, she finds herself staying with him.",
+      "popularity": 24.667,
+      "poster_path": "/9LAjVH33SAwhCi9xTEQVBFdHi7r.jpg",
+      "first_air_date": "2023-05-15",
+      "name": "Marvellous Love",
+      "vote_average": 10,
+      "vote_count": 1
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cuG3f2l51KdvP9IzBHlol2jR2FC.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 117303,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "Lessons in Chemistry",
+      "overview": "In the 1950s, Elizabeth Zott's dream of being a scientist is challenged by a society that says women belong in the domestic sphere. She accepts a job on a TV cooking show and sets out to teach a nation of overlooked housewives way more than recipes.",
+      "popularity": 46.31,
+      "poster_path": "/tCPIf5f6jUIr8KDMWsfaXwXW0kl.jpg",
+      "first_air_date": "2023-10-12",
+      "name": "Lessons in Chemistry",
+      "vote_average": 8.262,
+      "vote_count": 231
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mBuOTZhmgSzxzaVfZMO5TTvRUXR.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 29853,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "In Cold Blood",
+      "overview": "At the end of the 1950s, in a more innocent America, the brutal, meaningless slaying of a Midwestern family horrified the nation. This film is based on Truman Capote's hauntingly detailed, psychologically penetrating nonfiction novel. While in prison, Dick Hickock, 20, hears a cell-mate's story about $10,000 in cash kept in a home safe by a prosperous rancher. When he's paroled, Dick persuades ex-con Perry Smith, also 20, to join him in going after the stash. On a November night in 1959, Dick and Perry break into the Holcomb, Kansas, house of Herb Clutter. Enraged at finding no safe, they wake the sleeping family and brutally kill them all. The bodies are found by two friends who come by before Sunday church. The murders shock the small Great Plains town, where doors are routinely left unlocked. Detective Alvin Dewey of the Kansas Bureau of Investigation heads the case, but there are no clues, no apparent motive and no suspects...",
+      "popularity": 12.583,
+      "poster_path": "/rYqCMllLTq6mE8fEAzvhXepakoi.jpg",
+      "first_air_date": "1996-11-24",
+      "name": "In Cold Blood",
+      "vote_average": 6,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aeH30rfONdACwYpE2hA0bWxAHB5.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 253710,
+      "origin_country": [
+        "TH"
+      ],
+      "original_language": "th",
+      "original_name": "ใจซ่อนรัก",
+      "overview": "After a disastrous breakup, two women cross paths again and must navigate love, uncertainty and the past before they reignite their old romance.",
+      "popularity": 34.535,
+      "poster_path": "/3GjOfzt4QO0W6TZrNmtxYz1iRuV.jpg",
+      "first_air_date": "2024-06-24",
+      "name": "The Secret of Us",
+      "vote_average": 8.1,
+      "vote_count": 28
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7ubiVP3cRXUseRS1KL65dy17hNu.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 253767,
+      "origin_country": [
+        "CN"
+      ],
+      "original_language": "zh",
+      "original_name": "失笑",
+      "overview": "Gu Yi is a stand-up comedian in Shanghai who juggles a day job and nighttime performances. Her simple goal is to make everyone laugh, but one day she encounters an audience member, Liang Daiwen, who seems immune to her humor. This leads to an unexpected clash between a woman driven by comedy and a man who never laughs.",
+      "popularity": 22.326,
+      "poster_path": "/uf5rw7vgBEtgjhwJgcOVGiW7gNP.jpg",
+      "first_air_date": "2024-11-08",
+      "name": "Smile Code",
+      "vote_average": 9,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18,
+        10751
+      ],
+      "id": 87644,
+      "origin_country": [
+        "JP"
+      ],
+      "original_language": "ja",
+      "original_name": "絆～走れ奇跡の子馬～",
+      "overview": "Based on novel \"Kizuna ~ Aru Jinba no Monogatari~” by Akihiro Shimada (published from June, 2012 to December, 2012 in horse racing portal site ‘netkeiba.com’).",
+      "popularity": 11.379,
+      "poster_path": "/aZuadl2UQXIIndKkUnoAklsrlc6.jpg",
+      "first_air_date": "2017-03-23",
+      "name": "Ties: A Miraculous Colt",
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/rC2OvfVrruXGLqDV5ke19p7W28r.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 87663,
+      "origin_country": [
+        "TW"
+      ],
+      "original_language": "zh",
+      "original_name": "魂囚西門",
+      "overview": "A troubled psychologist returns from the U.S. and sets up a clinic in Taiwan, where mysterious patients and uncanny events shed light on his murky past.",
+      "popularity": 10.234,
+      "poster_path": "/yOBRQW7srHFkZIXnwsIHRGFlmxY.jpg",
+      "first_air_date": "2019-02-16",
+      "name": "Green Door",
+      "vote_average": 6.8,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7sFgIXSZsU2zDCAJGCIAbrACdKk.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 226471,
+      "origin_country": [
+        "TH"
+      ],
+      "original_language": "th",
+      "original_name": "บทกวีของปีแสง",
+      "overview": "Botkawi has forever been in love with Pearmai. His life is forever changed when a musical crystal ball he bought as an important gift for Pearmai transports him back in time to the age of eighteen. Everything turns upside-down. Instead of fulfilling his hopes and setting things right with Pearmai, Botkawi somehow ends up in the arms of Pisaeng. Thus begin their cat and mouse game with Pisaeng chasing after Botkawi. Old feelings for Pearmai, however, become a detriment to their blossoming romance. Enraged, Botkawi keeps twisting the crystal ball in an attempt to get his desired results.",
+      "popularity": 17.198,
+      "poster_path": "/mLpDXaHAGMV1lhMswsPm1PWHYha.jpg",
+      "first_air_date": "2023-05-26",
+      "name": "Be My Favorite",
+      "vote_average": 7.2,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/knUl8SgLcMrBWhAIMrtuqmkWDhZ.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 194917,
+      "origin_country": [
+        "TH"
+      ],
+      "original_language": "th",
+      "original_name": "เมนูลับฉบับแก้มยุ้ย",
+      "overview": "This is the story of Ram and Lukchup.  Ram is a third-year architecture student. He's good-looking, filthy rich and the popular guy of the university. But he's a picky eater, the food that you can easily buy doesn't satisfy his taste buds.  Lukchup is a cute junior with chubby cheeks who studies Food and Nutrition. He has a crush on Ram but doesn't have the courage to confess. Luckily, one day fate brings them together, with food and Thai desserts as the bond.",
+      "popularity": 4.795,
+      "poster_path": "/nKWeJZUCmjzWpvn8LMOKr1x0pYD.jpg",
+      "first_air_date": "2022-03-12",
+      "name": "La Cuisine",
+      "vote_average": 6.2,
+      "vote_count": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        18
+      ],
+      "id": 27611,
+      "origin_country": [
+        "GB"
+      ],
+      "original_language": "en",
+      "original_name": "Nicholas Nickleby",
+      "overview": "Adaptation of the Dickens novel.",
+      "popularity": 4.852,
+      "poster_path": "/f6fEa2HFYqk8Y4xeNaGQ2xLc8Vm.jpg",
+      "first_air_date": "1977-03-27",
+      "name": "Nicholas Nickleby",
+      "vote_average": 5.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aPmI9d56GafrpGJet5EiVMp2SCg.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 224211,
+      "origin_country": [
+        "TH"
+      ],
+      "original_language": "th",
+      "original_name": "Be Mine The Series",
+      "overview": "TV adaptation based on Khun Phuying’s novel of the same name.",
+      "popularity": 4.765,
+      "poster_path": "/gKhCmHHQdRZyPthKVNuHvFdFxwi.jpg",
+      "first_air_date": "",
+      "name": "Be Mine",
+      "vote_average": 10,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gCMA4xWaVB3p8ap29iBIwUCYUb5.jpg",
+      "genre_ids": [
+        10765,
+        18
+      ],
+      "id": 85273,
+      "origin_country": [
+        "US"
+      ],
+      "original_language": "en",
+      "original_name": "NOS4A2",
+      "overview": "A young Victoria \"Vic\" McQueen discovers she has the power to unlock portals that help her find lost objects. As she delves further into this hidden universe, she encounters many other \"inscape travelers\" - some benevolent, and some who have been corrupted by their power. When Vic encounters Charlie Manx, an immortal who stays that way by feeding off of the souls of children, she makes a sworn enemy of Manx.",
+      "popularity": 31.359,
+      "poster_path": "/gnosVTTRTCqooJuipwU6C0bgOGf.jpg",
+      "first_air_date": "2019-06-02",
+      "name": "NOS4A2",
+      "vote_average": 7.275,
+      "vote_count": 391
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5kOKNntEPrnq8LRtjC9vXAUueut.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 85404,
+      "origin_country": [
+        "KR"
+      ],
+      "original_language": "ko",
+      "original_name": "진심이 닿다",
+      "overview": "Hoping to make a comeback after a bad scandal, an actress agrees to research a new role by taking a job as a secretary for a prickly attorney.",
+      "popularity": 93.019,
+      "poster_path": "/kVFflfTOFqFBh34jcVRI1QCWSre.jpg",
+      "first_air_date": "2019-02-06",
+      "name": "Touch Your Heart",
+      "vote_average": 8.3,
+      "vote_count": 337
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qHit5Opw1SegDgExYLZhst4i9z5.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 85453,
+      "origin_country": [
+        "FI"
+      ],
+      "original_language": "fi",
+      "original_name": "Nörtti: DragonSlayer666",
+      "overview": "Nineteen year old high-schooler has one dream: to become a professional esport player. However, there are many obstacles in the way of his dream, like nagging mother, niggling principal, and getting kicked out of the team.",
+      "popularity": 7.812,
+      "poster_path": "/3m5tTm6PnkzDbvDA3OfYO96rfiI.jpg",
+      "first_air_date": "2017-10-05",
+      "name": "Nerd: DragonSlayer666",
+      "vote_average": 6.5,
+      "vote_count": 2
+    }
+  ],
+  "total_pages": 2058,
+  "total_results": 41145
+}

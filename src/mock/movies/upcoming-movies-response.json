@@ -1,0 +1,399 @@
+{
+  "dates": {
+    "maximum": "2025-02-19",
+    "minimum": "2025-01-29"
+  },
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/fzjH7kt1017R9EckLDmWmH5pGhD.jpg",
+      "genre_ids": [
+        28,
+        27,
+        53
+      ],
+      "id": 970450,
+      "original_language": "en",
+      "original_title": "Werewolves",
+      "overview": "A year after a supermoon’s light activated a dormant gene, transforming humans into bloodthirsty werewolves and causing nearly a billion deaths, the nightmare resurfaces as the supermoon rises again. Two scientists attempt to stop the mutation but fail and must now struggle to reach one of their family homes.",
+      "popularity": 929.507,
+      "poster_path": "/cRTctVlwvMdXVsaYbX5qfkittDP.jpg",
+      "release_date": "2024-12-04",
+      "title": "Werewolves",
+      "video": false,
+      "vote_average": 6.399,
+      "vote_count": 218
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/i3CAo9UMGsvlU9k3Svd63rRDeZx.jpg",
+      "genre_ids": [
+        16,
+        18,
+        35
+      ],
+      "id": 1064486,
+      "original_language": "en",
+      "original_title": "Memoir of a Snail",
+      "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+      "popularity": 777.145,
+      "poster_path": "/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg",
+      "release_date": "2024-10-17",
+      "title": "Memoir of a Snail",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 92
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fYnEbgoNCxW9kL0IgOgtJb9JTBU.jpg",
+      "genre_ids": [
+        18,
+        14,
+        27
+      ],
+      "id": 426063,
+      "original_language": "en",
+      "original_title": "Nosferatu",
+      "overview": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+      "popularity": 970.885,
+      "poster_path": "/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+      "release_date": "2024-12-25",
+      "title": "Nosferatu",
+      "video": false,
+      "vote_average": 6.663,
+      "vote_count": 1249
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+      "genre_ids": [
+        16,
+        28,
+        878,
+        10751
+      ],
+      "id": 1184918,
+      "original_language": "en",
+      "original_title": "The Wild Robot",
+      "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+      "popularity": 598.291,
+      "poster_path": "/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg",
+      "release_date": "2024-09-12",
+      "title": "The Wild Robot",
+      "video": false,
+      "vote_average": 8.365,
+      "vote_count": 4054
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7bIWKyWdT04HTY3PqLETT8CH7jo.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 974453,
+      "original_language": "en",
+      "original_title": "Absolution",
+      "overview": "An aging ex-boxer gangster working as muscle for a Boston crime boss receives an upsetting diagnosis.  Despite a faltering memory, he attempts to rectify the sins of his past and reconnect with his estranged children. He is determined to leave a positive legacy for his grandson, but the criminal underworld isn’t done with him and won’t loosen their grip willingly.",
+      "popularity": 488.512,
+      "poster_path": "/2MeQG5Vq8rUnRAa463BZe5GNhVk.jpg",
+      "release_date": "2024-10-31",
+      "title": "Absolution",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 275
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/b3mdmjYTEL70j7nuXATUAD9qgu4.jpg",
+      "genre_ids": [
+        16,
+        14,
+        12
+      ],
+      "id": 823219,
+      "original_language": "lv",
+      "original_title": "Straume",
+      "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+      "popularity": 520.353,
+      "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
+      "release_date": "2024-08-29",
+      "title": "Flow",
+      "video": false,
+      "vote_average": 8.397,
+      "vote_count": 850
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4cp40IyTpFfsT2IKpl0YlUkMBIR.jpg",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "id": 1064213,
+      "original_language": "en",
+      "original_title": "Anora",
+      "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+      "popularity": 353.763,
+      "poster_path": "/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
+      "release_date": "2024-10-14",
+      "title": "Anora",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 774
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qSOMdbZ6AOdHR999HWwVAh6ALFI.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1249289,
+      "original_language": "en",
+      "original_title": "Alarum",
+      "overview": "Two married spies caught in the crosshairs of an international intelligence network will stop at nothing to obtain a critical asset. Joe and Lara are agents living off the grid whose quiet retreat at a winter resort is blown to shreds when members of the old guard suspect the two may have joined an elite team of rogue spies, known as Alarum.",
+      "popularity": 451.569,
+      "poster_path": "/v313aUGmMNj6yNveaiQXysBmjVS.jpg",
+      "release_date": "2025-01-16",
+      "title": "Alarum",
+      "video": false,
+      "vote_average": 5.613,
+      "vote_count": 31
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q3Rgy4pQlPBou8ilYaVdHmjylyV.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 604685,
+      "original_language": "en",
+      "original_title": "Den of Thieves 2: Pantera",
+      "overview": "Big Nick is back on the hunt in Europe and closing in on Donnie, who is embroiled in the treacherous and unpredictable world of diamond thieves and the infamous Panther mafia, as they plot a massive heist of the world's largest diamond exchange.",
+      "popularity": 301.371,
+      "poster_path": "/scZfHuvRwUKZMbZauWMvjEX5g6N.jpg",
+      "release_date": "2025-01-08",
+      "title": "Den of Thieves 2: Pantera",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 47
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2ERLqcEBaJCIpBVR9O7RAapMGrw.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 1059128,
+      "original_language": "en",
+      "original_title": "Queer",
+      "overview": "1950. William Lee, an American expat in Mexico City, spends his days almost entirely alone, except for a few contacts with other members of the small American community. His encounter with Eugene Allerton, an expat former soldier, new to the city, shows him, for the first time, that it might be finally possible to establish an intimate connection with somebody.",
+      "popularity": 261.29,
+      "poster_path": "/xe4b2TMciLKA1C0JlhWxb4ENLln.jpg",
+      "release_date": "2024-11-27",
+      "title": "Queer",
+      "video": false,
+      "vote_average": 7.263,
+      "vote_count": 116
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fViElUGfdoZjtnVxvSpJX8TwxY6.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1013850,
+      "original_language": "en",
+      "original_title": "A Real Pain",
+      "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
+      "popularity": 254.883,
+      "poster_path": "/yaTFjMNh8D78dDHrglivOTv5YOx.jpg",
+      "release_date": "2024-11-01",
+      "title": "A Real Pain",
+      "video": false,
+      "vote_average": 6.782,
+      "vote_count": 243
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2wqYNWasS3cxjAvoNfUTAZ58XGT.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1088514,
+      "original_language": "es",
+      "original_title": "La habitación de al lado",
+      "overview": "Ingrid and Martha were close friends in their youth, when they worked together at the same magazine. Ingrid went on to become an autofiction novelist while Martha became a war reporter, and they were separated by the circumstances of life. After years of being out of touch, they meet again in an extreme but strangely sweet situation.",
+      "popularity": 255.048,
+      "poster_path": "/786Uu8eHfctp2TkII7ga1AnTBSs.jpg",
+      "release_date": "2024-10-07",
+      "title": "The Room Next Door",
+      "video": false,
+      "vote_average": 7.013,
+      "vote_count": 266
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a3PBAmXUXuazAzr83WNzRaBS33I.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 978796,
+      "original_language": "en",
+      "original_title": "Bagman",
+      "overview": "For centuries and across cultures, parents have warned their children of the legendary Bagman, who snatches innocent children and stuffs them into his vile, rotting bag—never to be seen again. Patrick McKee narrowly escaped such an encounter as a boy, which left him with lasting scars throughout his adulthood. Now, Patrick’s childhood tormentor has returned, threatening the safety of his wife Karina and son Jake.",
+      "popularity": 228.429,
+      "poster_path": "/53IK9rlZJbwFYbNnJZiLq7UWxkT.jpg",
+      "release_date": "2024-09-20",
+      "title": "Bagman",
+      "video": false,
+      "vote_average": 6.292,
+      "vote_count": 171
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hctfNoMpQGfn3VXdBYb9p0P5bT5.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1097549,
+      "original_language": "en",
+      "original_title": "Babygirl",
+      "overview": "A high-powered CEO puts her career and family on the line when she begins a torrid affair with her much younger intern.",
+      "popularity": 230.246,
+      "poster_path": "/A8HbTd0FemZyFCh5qvJFpHGiwF8.jpg",
+      "release_date": "2024-12-25",
+      "title": "Babygirl",
+      "video": false,
+      "vote_average": 5.672,
+      "vote_count": 125
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+      "genre_ids": [
+        12,
+        14
+      ],
+      "id": 671,
+      "original_language": "en",
+      "original_title": "Harry Potter and the Philosopher's Stone",
+      "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+      "popularity": 217.362,
+      "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+      "release_date": "2001-11-16",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "video": false,
+      "vote_average": 7.906,
+      "vote_count": 27762
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jcEcle0wHoTpEkLmK4AcBKgWI45.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1100099,
+      "original_language": "en",
+      "original_title": "We Live in Time",
+      "overview": "An up-and-coming chef and a recent divorcée find their lives forever changed when a chance encounter brings them together, in a decade-spanning, deeply moving romance.",
+      "popularity": 212.261,
+      "poster_path": "/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg",
+      "release_date": "2024-10-10",
+      "title": "We Live in Time",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 509
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fyeyxFzZ3qYqDsaMVYF6sq3pp2n.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 1167271,
+      "original_language": "en",
+      "original_title": "Weekend in Taipei",
+      "overview": "A former DEA agent and a former undercover operative revisit their romance during a fateful weekend in Taipei, unaware of the dangerous consequences of their past.",
+      "popularity": 174.88,
+      "poster_path": "/qSc0AUvs8mRy00R9y8QYEHWIAQ9.jpg",
+      "release_date": "2024-09-19",
+      "title": "Weekend in Taipei",
+      "video": false,
+      "vote_average": 6.252,
+      "vote_count": 117
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/66nlC5LDZmDUWONGkUZT2BrOszG.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 974576,
+      "original_language": "en",
+      "original_title": "Conclave",
+      "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+      "popularity": 192.23,
+      "poster_path": "/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+      "release_date": "2024-10-25",
+      "title": "Conclave",
+      "video": false,
+      "vote_average": 7.171,
+      "vote_count": 904
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1LSMstNHwJnJD7tpnb8gZcgGNQR.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1164355,
+      "original_language": "id",
+      "original_title": "Lembayung",
+      "overview": "Arum and Pica, who wanted to complete their internship at Lembayung hospital, had to face mysterious terror from a woman satan who was suspected of hanged herself in the bathroom. The situation became even more tense after they asked others for help to the point where they threatened their own lives and those closest to them.",
+      "popularity": 195.795,
+      "poster_path": "/5x9LrW0yvtt6S3XovIQHgXfYvLL.jpg",
+      "release_date": "2024-09-19",
+      "title": "Lembayung",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/co7oxvpWxgd6FZU24DnljDDHYQA.jpg",
+      "genre_ids": [
+        878,
+        53
+      ],
+      "id": 1064028,
+      "original_language": "en",
+      "original_title": "Subservience",
+      "overview": "With his wife out sick, a struggling father brings home a lifelike AI, only to have his self-aware new help want everything her new family has to offer... Like the affection of her owner and she'll kill to get it.",
+      "popularity": 168.021,
+      "poster_path": "/gBenxR01Uy0Ev9RTIw6dVBPoyQU.jpg",
+      "release_date": "2024-08-15",
+      "title": "Subservience",
+      "video": false,
+      "vote_average": 6.719,
+      "vote_count": 560
+    }
+  ],
+  "total_pages": 41,
+  "total_results": 803
+}

@@ -1,0 +1,424 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/fYnEbgoNCxW9kL0IgOgtJb9JTBU.jpg",
+      "id": 426063,
+      "title": "Nosferatu",
+      "original_title": "Nosferatu",
+      "overview": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+      "poster_path": "/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        14,
+        27
+      ],
+      "popularity": 970.885,
+      "release_date": "2024-12-25",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 1263
+    },
+    {
+      "backdrop_path": "/b85bJfrTOSJ7M5Ox0yp4lxIxdG1.jpg",
+      "id": 939243,
+      "title": "Sonic the Hedgehog 3",
+      "original_title": "Sonic the Hedgehog 3",
+      "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+      "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        878,
+        35,
+        10751
+      ],
+      "popularity": 4984.588,
+      "release_date": "2024-12-19",
+      "video": false,
+      "vote_average": 7.689,
+      "vote_count": 806
+    },
+    {
+      "backdrop_path": "/xZm5YUNY3PlYD1Q4k7X8zd2V4AK.jpg",
+      "id": 993710,
+      "title": "Back in Action",
+      "original_title": "Back in Action",
+      "overview": "Fifteen years after vanishing from the CIA to start a family, elite spies Matt and Emily jump back into the world of espionage when their cover is blown.",
+      "poster_path": "/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "popularity": 1626.554,
+      "release_date": "2025-01-15",
+      "video": false,
+      "vote_average": 6.724,
+      "vote_count": 387
+    },
+    {
+      "backdrop_path": "/c0g0OprcXkRu61HlKM1fQv8qj8x.jpg",
+      "id": 1410082,
+      "title": "Sniper: The Last Stand",
+      "original_title": "Sniper: The Last Stand",
+      "overview": "To stop an arms dealer from unleashing a deadly superweapon, Ace sniper Brandon Beckett and Agent Zero are deployed to Costa Verde to lead a group of elite soldiers against an unrelenting militia. Taking an untested sniper under his wing, Beckett faces his newest challenge: giving orders instead of receiving them. With both time and ammo running low in a race to save humanity, the team must overcome all odds just to survive.",
+      "poster_path": "/TVvIyCsFCmLk9MRLbAZi4X8f32.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "popularity": 69.343,
+      "release_date": "2025-01-21",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 4
+    },
+    {
+      "backdrop_path": "/uKb22E0nlzr914bA9KyA5CVCOlV.jpg",
+      "id": 402431,
+      "title": "Wicked",
+      "original_title": "Wicked",
+      "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+      "poster_path": "/2E1x1qcHqGZcYuYi4PzVZjzg8IV.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        10749,
+        14
+      ],
+      "popularity": 962.586,
+      "release_date": "2024-11-20",
+      "video": false,
+      "vote_average": 6.993,
+      "vote_count": 1422
+    },
+    {
+      "backdrop_path": "/zGT6zikFjC5wRROXbPIipKahZn8.jpg",
+      "id": 850439,
+      "title": "The Damned",
+      "original_title": "The Damned",
+      "overview": "A 19th-century widow is tasked with making an impossible choice when, during an especially cruel winter, a ship sinks off the coast of her impoverished Icelandic fishing village. Any attempt to rescue survivors risks further depleting the starving villagers’ supplies.",
+      "poster_path": "/fAXDQny8kEquc1BImiQHhYMGSsW.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        27,
+        9648
+      ],
+      "popularity": 32.942,
+      "release_date": "2025-01-03",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 16
+    },
+    {
+      "backdrop_path": "/pQesMch1KeIfpCwoZfMPTZDR5Gd.jpg",
+      "id": 933260,
+      "title": "The Substance",
+      "original_title": "The Substance",
+      "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+      "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        878
+      ],
+      "popularity": 749.004,
+      "release_date": "2024-09-07",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 3365
+    },
+    {
+      "backdrop_path": "/wwARk7hRIfHfh2n2ubN6N7lvTne.jpg",
+      "id": 710295,
+      "title": "Wolf Man",
+      "original_title": "Wolf Man",
+      "overview": "With his marriage fraying, Blake persuades his wife Charlotte to take a break from the city and visit his remote childhood home in rural Oregon. As they arrive at the farmhouse in the dead of night, they're attacked by an unseen animal and barricade themselves inside the home as the creature prowls the perimeter. But as the night stretches on, Blake begins to behave strangely, transforming into something unrecognizable.",
+      "poster_path": "/tUtuMtC6oaRXr4x2B5Xi6ABdMCv.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "popularity": 327.557,
+      "release_date": "2025-01-15",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 71
+    },
+    {
+      "backdrop_path": "/v9Du2HC3hlknAvGlWhquRbeifwW.jpg",
+      "id": 539972,
+      "title": "Kraven the Hunter",
+      "original_title": "Kraven the Hunter",
+      "overview": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+      "poster_path": "/i47IUSsN126K11JUzqQIOi1Mg1M.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        878,
+        12,
+        14,
+        53
+      ],
+      "popularity": 4138.501,
+      "release_date": "2024-12-11",
+      "video": false,
+      "vote_average": 6.55,
+      "vote_count": 726
+    },
+    {
+      "backdrop_path": "/9V81UUI5MlRYgDCfK5E8iqi0eYM.jpg",
+      "id": 454626,
+      "title": "Sonic the Hedgehog",
+      "original_title": "Sonic the Hedgehog",
+      "overview": "Powered with incredible speed, Sonic The Hedgehog embraces his new home on Earth. That is, until Sonic sparks the attention of super-uncool evil genius Dr. Robotnik. Now it’s super-villain vs. super-sonic in an all-out race across the globe to stop Robotnik from using Sonic’s unique power for world domination.",
+      "poster_path": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        878,
+        35,
+        10751
+      ],
+      "popularity": 306.95,
+      "release_date": "2020-02-12",
+      "video": false,
+      "vote_average": 7.308,
+      "vote_count": 9689
+    },
+    {
+      "backdrop_path": "/2P0PUkQ1tNHNYTEmtbBmM8MfXBG.jpg",
+      "id": 696506,
+      "title": "Mickey 17",
+      "original_title": "Mickey 17",
+      "overview": "Mickey Barnes has found himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.",
+      "poster_path": "/sY4n1osXuddwZokEmWUu1kq7U8g.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        28,
+        35
+      ],
+      "popularity": 72.411,
+      "release_date": "2025-02-28",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "backdrop_path": "/oHPoF0Gzu8xwK4CtdXDaWdcuZxZ.jpg",
+      "id": 762509,
+      "title": "Mufasa: The Lion King",
+      "original_title": "Mufasa: The Lion King",
+      "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+      "poster_path": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        12,
+        10751,
+        16
+      ],
+      "popularity": 2196.48,
+      "release_date": "2024-12-18",
+      "video": false,
+      "vote_average": 7.427,
+      "vote_count": 819
+    },
+    {
+      "backdrop_path": "/fViElUGfdoZjtnVxvSpJX8TwxY6.jpg",
+      "id": 1013850,
+      "title": "A Real Pain",
+      "original_title": "A Real Pain",
+      "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
+      "poster_path": "/yaTFjMNh8D78dDHrglivOTv5YOx.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "popularity": 254.883,
+      "release_date": "2024-11-01",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 245
+    },
+    {
+      "backdrop_path": "/4cp40IyTpFfsT2IKpl0YlUkMBIR.jpg",
+      "id": 1064213,
+      "title": "Anora",
+      "original_title": "Anora",
+      "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+      "poster_path": "/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        10749,
+        35,
+        18
+      ],
+      "popularity": 353.763,
+      "release_date": "2024-10-14",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 775
+    },
+    {
+      "backdrop_path": "/s6aS7bsWXdeaxZhCHTyrKRR6Rbp.jpg",
+      "id": 1279947,
+      "title": "Sunray: Fallen Soldier",
+      "original_title": "Sunray: Fallen Soldier",
+      "overview": "After dedicating his entire life to service in the armed forces Andy now struggles to slot back into a world he no longer recognises. Now forced to confront the death of his daughter following a fatal encounter with drugs he becomes hell-bent on finding those responsible. With nothing to lose, a violent criminal underworld unravels in his wake. Set against a backdrop of realistic, fast-paced action, guided by high-quality military drills; and created by UK Armed Forces veterans. Sunray challenges the perceptions of mental health and the struggles that soldiers face when re-integrating back into civilian life.",
+      "poster_path": "/ghLaj5dBrdUsD4wjq3QERcisr5k.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "popularity": 53.194,
+      "release_date": "2025-01-24",
+      "video": false,
+      "vote_average": 4.8,
+      "vote_count": 2
+    },
+    {
+      "backdrop_path": "/lrP1TQf3stZveNEyviUUcSh8HLA.jpg",
+      "id": 675353,
+      "title": "Sonic the Hedgehog 2",
+      "original_title": "Sonic the Hedgehog 2",
+      "overview": "After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.",
+      "poster_path": "/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        12,
+        10751,
+        35
+      ],
+      "popularity": 415.461,
+      "release_date": "2022-03-30",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 5212
+    },
+    {
+      "backdrop_path": "/hmZnqijPaaACjenDkrbWcCmcADI.jpg",
+      "id": 549509,
+      "title": "The Brutalist",
+      "original_title": "The Brutalist",
+      "overview": "Escaping post-war Europe, visionary architect László Tóth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
+      "poster_path": "/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 122.113,
+      "release_date": "2024-12-20",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 38
+    },
+    {
+      "backdrop_path": "/tpuL18PIgq12EAgt88m1NbC02y3.jpg",
+      "id": 1388808,
+      "title": "Into the Deep",
+      "original_title": "Into the Deep",
+      "overview": "Divers searching for sunken treasure witness the murder of drug dealers by modern-day pirates, but a killer great white is determined not to let any of them escape its waters.",
+      "poster_path": "/l5lvdM6ABMZWElv7pZuACqTrBZS.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        28,
+        53
+      ],
+      "popularity": 30.47,
+      "release_date": "2025-01-23",
+      "video": false,
+      "vote_average": 4,
+      "vote_count": 3
+    },
+    {
+      "backdrop_path": "/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
+      "id": 558449,
+      "title": "Gladiator II",
+      "original_title": "Gladiator II",
+      "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+      "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        12,
+        18
+      ],
+      "popularity": 1278.402,
+      "release_date": "2024-11-05",
+      "video": false,
+      "vote_average": 6.756,
+      "vote_count": 2449
+    },
+    {
+      "backdrop_path": "/vZG7PrX9HmdgL5qfZRjhJsFYEIA.jpg",
+      "id": 912649,
+      "title": "Venom: The Last Dance",
+      "original_title": "Venom: The Last Dance",
+      "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+      "poster_path": "/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "popularity": 1402.076,
+      "release_date": "2024-10-22",
+      "video": false,
+      "vote_average": 6.78,
+      "vote_count": 2507
+    }
+  ],
+  "total_pages": 500,
+  "total_results": 10000
+}

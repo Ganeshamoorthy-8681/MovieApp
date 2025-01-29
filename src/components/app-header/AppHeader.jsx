@@ -55,7 +55,7 @@ export function AppHeader()
                         setSearchValue("");
                         window.history.back();
                     }}>
-                        <CloseIcon sx={{ color: "white", fontSize: "1.25rem" }}></CloseIcon>
+                        <CloseIcon sx={{ color: "white", fontSize: "1.25rem" }} />
                     </IconButton>
                 </div>
 

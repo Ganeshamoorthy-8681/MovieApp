@@ -1,10 +1,12 @@
 import { Dialog, DialogContent, DialogTitle, IconButton } from "@mui/material";
 import { useParams } from "react-router";
 import CloseIcon from "@mui/icons-material/Close";
+// import { createPortal } from "react-dom";
 
 export function AppVideo()
 {
   const params = useParams();
+  
   return (
 
     <Dialog
@@ -33,6 +35,14 @@ export function AppVideo()
         </div>
       </DialogContent>
     </Dialog>
+
+    //We can custom person
+    // createPortal(
+    //   <dialog open stye>
+    //     This is  a dialog
+    //   </dialog>
+    //   , document.getElementById("overlay"))
+
 
   );
 }

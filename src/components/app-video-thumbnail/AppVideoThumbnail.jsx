@@ -5,7 +5,8 @@ import { Tooltip } from "@mui/material";
 
 const StyledVideoThumbnailWrapper = styled.div`
 
-width:300px;
+min-width:300px;
+max-width:300px;
 height:220px;
 position:relative;
 cursor:pointer;

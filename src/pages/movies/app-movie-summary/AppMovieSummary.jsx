@@ -1,7 +1,7 @@
 import { Outlet, useParams } from "react-router";
 import { useEffect, useState } from "react";
 import { MovieService } from "@cs/services/MovieService";
-import { AppMovieViewContent } from "@cs/components/app-movie-view-content/app-movie-view-content";
+import { AppMediaViewContent } from "@cs/components/app-media-view-content/app-media-view-content";
 import { AppStarContent } from "@cs/components/app-star-content/AppStarContent";
 import { ImagePath } from "@cs/constants/ImageConstants";
 import { AppMediaCardList } from "@cs/components/app-media-card-list/AppMediaCardList";
@@ -69,7 +69,7 @@ export function AppMovieSummary()
           description={movieDetails.overview}
           id={movieDetails.id}>
 
-          <AppMovieViewContent
+          <AppMediaViewContent
             posterImageUrl={ImagePath.BANNER_PATH + movieDetails.poster_path}
             title={movieDetails.title}
             rating={movieDetails.vote_average}

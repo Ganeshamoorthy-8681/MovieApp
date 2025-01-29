@@ -42,10 +42,10 @@ export function AppViewMore(props)
         {title}
       </div>
       <div className="content">
-        {items.map((item) => <AppPoster key={item.id} {...item} handlePosterClick={() => handlePosterClick(item.id)} />)}
+        {items.map((item) => <AppPoster key={item.id} {...item} handlePosterClick={() => handlePosterClick(item.id, item.mediaType)} />)}
       </div>
       {
-        isLoadMore && <div style={{ textAlign: "center",marginTop:"1rem" }}> <button type="button" className="load-more-btn" onClick={handleLoadMore}>Load More</button></div>
+        isLoadMore && <div style={{ textAlign: "center", marginTop: "1rem" }}> <button type="button" className="load-more-btn" onClick={handleLoadMore}>Load More</button></div>
       }
     </StyledAppViewMore>
   );

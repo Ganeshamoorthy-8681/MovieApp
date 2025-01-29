@@ -13,13 +13,9 @@ export function AppHeader()
 
     useEffect(() =>
     {
-
         if (searchValue?.length)
         {
             navigate(`/search/?query=${ searchValue }`);
-        } else
-        {
-            navigate("/");
         }
     }, [searchValue]);
 
@@ -50,12 +46,14 @@ export function AppHeader()
                     onChange={(e) =>
                     {
                         setSearchValue(e.target.value);
+                        if (e.target.value == "") { window.history.back(); }
 
                     }} />
                 <div className={styles["close-icon"]}>
                     <IconButton size="sm" onClick={() =>
                     {
                         setSearchValue("");
+                        window.history.back();
                     }}>
                         <CloseIcon sx={{ color: "white", fontSize: "1.25rem" }}></CloseIcon>
                     </IconButton>

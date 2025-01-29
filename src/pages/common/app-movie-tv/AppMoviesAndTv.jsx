@@ -83,6 +83,7 @@ export function AppAllMoviesAndTv()
             title="Trending Tv Series"
             total={tvSeriesListData.total_results}
             items={prepareMediaList(tvSeriesListData.results)}
+            mediaType={"tv"}
             handleViewMore={() => navigate("/tv/trend")}
           />
         }

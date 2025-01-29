@@ -35,15 +35,28 @@ export function AppMediaCardList(props)
         <div>  <span className="title">{title}</span> </div>
         {isViewMore && <button type="button" onClick={handleViewMore}>View More</button>}
       </div>
-      <div className="media-card-content-wrapper" onMouseEnter={() => setIsHovered(true)} onMouseLeave={() => setIsHovered(false)}>
+      <div className="media-card-content-wrapper"
+        onMouseEnter={() => setIsHovered(true)}
+        onMouseLeave={() => setIsHovered(false)}
+      >
 
+        {isHovered &&
+          <button type="button" className="action-btn prev-btn" onClick={handlePrevBtnClick}> {"<"}  </button>
+        }
 
-        {isHovered && <button type="button" className="action-btn prev-btn" onClick={handlePrevBtnClick}> {"<"}  </button>}
         <div className="media-card-content" ref={mediaContentList} >
-
           {items?.map((item) => isVideo ?
-            <AppVideoThumbnail key={item.id} youtubeId={item.key} name={item.name} handleClickEvent={() => navigate(`video/${ item.key }`)} /> :
-            <AppPoster key={item.id} {...item} handlePosterClick={() => { navigate(`/${ mediaType }/${ item.id }`); }}
+            <AppVideoThumbnail
+              key={item.id}
+              youtubeId={item.key}
+              name={item.name}
+              handleClickEvent={
+                () => navigate(`video/${ item.key }`)
+              } /> :
+            <AppPoster key={item.id} {...item} handlePosterClick={() =>
+            {
+              navigate(`/${ mediaType }/${ item.id }`);
+            }}
             />
           )
           }

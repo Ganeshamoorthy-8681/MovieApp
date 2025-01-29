@@ -77,8 +77,6 @@ export function AppStarContent(props)
 {
   const { bannerImageUrl, title, children } = props;
 
-
-
   return (
     <StyledStarContentWrapper>
       <div className="image">

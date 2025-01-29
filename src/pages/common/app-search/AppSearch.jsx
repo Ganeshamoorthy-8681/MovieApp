@@ -16,6 +16,7 @@ export function AppSearch()
 
   useEffect(() =>
   {
+    setSearchData([]);
     setCurrentPage(1);
   }, [query]);
 
@@ -30,10 +31,10 @@ export function AppSearch()
           .map((item) => ({
             id: item.id,
             posterImageUrl: ImagePath.POSTER_PATH + item.poster_path,
-            title: item.name
+            title: item.title,
+            mediaType: item.media_type
           }
           ));
-        console.log(searchData, data);
         setSearchData((prevData) => prevData.concat(data));
       });
   }, [currentPage, query]);
@@ -47,7 +48,7 @@ export function AppSearch()
           items={searchData}
           isLoadMore={isLoadMore}
           handleLoadMore={() => setCurrentPage((prevValue) => prevValue + 1)}
-          handlePosterClick={(id) => navigate(`/movies/${ id }`)}
+          handlePosterClick={(id, mediaType) => navigate(`/${ mediaType === "movie" ? "movies" : "tv" }/${ id }`)}
         />
       }
     </>

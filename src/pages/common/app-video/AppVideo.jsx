@@ -5,7 +5,6 @@ import CloseIcon from "@mui/icons-material/Close";
 export function AppVideo()
 {
   const params = useParams();
-  console.log(params);
   return (
 
     <Dialog

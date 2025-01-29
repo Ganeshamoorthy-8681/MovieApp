@@ -53,4 +53,9 @@ export class TvSeriesService{
   static getGenres(){
     return Interceptor.getAxiosInstance().get(ApiConstant.TV_SERIES_GENRES);
   }
+
+  static getAggregateCredits(tvId){
+    const url = ApiConstant.TV_SERIES_CREDITS.replace('{id}', tvId);
+    return Interceptor.getAxiosInstance().get(url);
+  }
 }

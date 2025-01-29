@@ -1,7 +1,7 @@
 import StarIcon from '@mui/icons-material/Star';
-import styles from './AppMovieViewContent.module.css';
+import styles from './AppMediaViewContent.module.css';
 import PropTypes from "prop-types";
-export const AppMovieViewContent = (props) =>
+export const AppMediaViewContent = (props) =>
 {
 
   const {
@@ -13,7 +13,9 @@ export const AppMovieViewContent = (props) =>
     director,
     genres,
     cast,
-    releaseDate
+    releaseDate,
+    noOfEpisodes,
+    noOfSeasons
   } = props;
 
   return (
@@ -25,17 +27,17 @@ export const AppMovieViewContent = (props) =>
       <div className={styles["content"]}>
         <div className={styles["info"]}>
           <span className={styles.ratings}>
-            <StarIcon color="warning" className="icon" /> {rating}/10
+            <StarIcon sx={{ color: "#F59E0B" }} className="icon" /> {Math.round(rating * 100 / 100)} /10
           </span>
-          <span className={styles.duration}>{runtime}</span>
+          {runtime && <span className={styles.duration}>{runtime}</span>}
         </div>
         <div className={styles.title}>
           {title}
-          <div className={styles.genres}>
-            {genres.map(genre => <span key={genre.id} className={styles.badge}>{genre.name}</span>)}
-            <span className={styles.badge}>Drama</span>
-            <span className={styles.badge}>Adventure</span>
-          </div>
+          {genres &&
+            <div className={styles.genres}>
+              {genres.map(genre => <span key={genre.id} className={styles.badge}>{genre.name}</span>)}
+            </div>
+          }
         </div>
         <div className={styles.description}>
           {description}
@@ -53,13 +55,28 @@ export const AppMovieViewContent = (props) =>
             <span className={styles.key}>Release Date</span>
             <span className={styles.value}>{releaseDate}</span>
           </div>
+          {
+            noOfSeasons &&
+            <div className={styles["key-value"]}>
+              <span className={styles.key}>No of Seasons</span>
+              <span className={styles.value}>{noOfSeasons}</span>
+            </div>
+          }
+
+          {noOfEpisodes &&
+            <div className={styles["key-value"]}>
+              <span className={styles.key}>No of Episodes</span>
+              <span className={styles.value}>{noOfEpisodes}</span>
+            </div>
+          }
+
         </div>
       </div>
     </div>
   );
 };
 
-AppMovieViewContent.propTypes = {
+AppMediaViewContent.propTypes = {
   posterImageUrl: PropTypes.string,
   title: PropTypes.string,
   rating: PropTypes.number,
@@ -68,5 +85,7 @@ AppMovieViewContent.propTypes = {
   director: PropTypes.string,
   genres: PropTypes.array,
   cast: PropTypes.string,
-  releaseDate: PropTypes.string
+  releaseDate: PropTypes.string,
+  noOfEpisodes: PropTypes.bool,
+  noOfSeasons: PropTypes.bool
 };

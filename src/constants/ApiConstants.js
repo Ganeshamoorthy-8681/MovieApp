@@ -26,10 +26,10 @@ export class ApiConstant {
 
   //For Tv Series Api...
   static TV_SERIES_DETAILS = ApiConstant.BASE_PATH + "tv/{id}";
-  static SIMILAR_TV_SERIES = ApiConstant.TV_SHOW_DETAILS + "/similar";
-  static RECOMMENDED_TV_SERIES =  ApiConstant.TV_SHOW_DETAILS + "/recommendations";
-  static TV_SERIES_VIDEOS = ApiConstant.TV_SHOW_DETAILS + "/videos";
-  static TV_SERIES_REVIEW =  ApiConstant.MOVIE_DETAILS + "reviews"
+  static SIMILAR_TV_SERIES = ApiConstant.TV_SERIES_DETAILS + "/similar";
+  static RECOMMENDED_TV_SERIES =  ApiConstant.TV_SERIES_DETAILS + "/recommendations";
+  static TV_SERIES_VIDEOS = ApiConstant.TV_SERIES_DETAILS + "/videos";
+  static TV_SERIES_REVIEW =  ApiConstant.TV_SERIES_DETAILS + "reviews"
   static TV_SERIES_LIST = ApiConstant.BASE_PATH +"discover/tv";  
   static POPULAR_TV_SERIES = ApiConstant.BASE_PATH + "tv/popular";
   static TOP_RATED_TV_SERIES = ApiConstant.BASE_PATH + "tv/top_rated";

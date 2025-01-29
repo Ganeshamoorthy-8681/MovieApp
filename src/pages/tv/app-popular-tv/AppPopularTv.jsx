@@ -4,17 +4,17 @@ import { TvSeriesService } from "@cs/services/TvSeriesService";
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router";
 
-export function AppTrendingTvSeries()
+export function AppPopularTvSeries()
 {
   const [isLoadMore, setIsLoadMore] = useState(false);
-  const [trendingTvSeries, setTrendingTvSeries] = useState([]);
+  const [popularTvSeries, setPopularTvSeries] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
 
   const navigate = useNavigate();
 
   function prepareMediaList()
   {
-    return trendingTvSeries.map((movie) => (
+    return popularTvSeries.map((movie) => (
       {
         id: movie.id,
         title: movie.title,
@@ -24,20 +24,20 @@ export function AppTrendingTvSeries()
 
   useEffect(() =>
   {
-    TvSeriesService.getTvTrends(currentPage)
+    TvSeriesService.getPopularTvSeries(currentPage)
       .then((response) =>
       {
         const isLoadMore = currentPage === response.total_pages - 1;
         setIsLoadMore(!isLoadMore);
-        setTrendingTvSeries((prevValue) => prevValue.concat(response.data.results));
+        setPopularTvSeries((prevValue) => prevValue.concat(response.data.results));
       });
   }, [currentPage]);
 
 
   return <>
-    {trendingTvSeries.length > 0 &&
+    {popularTvSeries.length > 0 &&
       <AppViewMore
-        title="Airing This Week"
+        title="Popular Tv Series"
         items={prepareMediaList()}
         isLoadMore={isLoadMore}
         handleLoadMore={() => setCurrentPage((prevValue) => prevValue + 1)}

@@ -49,7 +49,6 @@ export function AppCastCrew(props)
   ];
 
   const credits = combined.filter((person) => person.profile_path).slice(0, 5);
-  console.log(credits);
 
   return (
     <StyledAppCastCrew>

@@ -9,5 +9,9 @@ export default defineConfig({
     alias:{
       "@cs": path.resolve(__dirname, './src'),
     }
-  }
+  },
+  base: "/",
+  server: {
+    historyApiFallback: true, // Prevents refresh errors
+  },
 })
